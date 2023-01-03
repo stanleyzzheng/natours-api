@@ -1,7 +1,6 @@
 # natours-api
 
 I follow and document my code from course taught by Jonas Schmedtmann on Udemy.com.
-A 40-60 hour course to backend Node.JS Development with Express and MongoDB.
 
 Course URL if you're interested: https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
 
